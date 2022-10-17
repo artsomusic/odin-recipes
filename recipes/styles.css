@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(245, 159, 0);
+    margin: 0;
+}
+
+.oi{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+img {
+    height: 250px;
+    width: auto;
+}
+
+.cachorro {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-weight: 950;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#gostei{
+    background-color: rgb(255, 200, 118);
+}
+

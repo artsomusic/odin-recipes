@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(245, 159, 0)
+}
+
+.titulo {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-weight: 950;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.atropelo{
+    font-family: Arial, Helvetica, sans-serif;
+}
